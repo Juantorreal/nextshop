@@ -15,8 +15,20 @@ export default function Home() {
   return (
     <HomeContainer>
       <Product>
-        <Image src={camiseta1} width={520} height={480}/>
+        <Image alt='' src={camiseta1} width={520} height={480}/>
+        <footer>
+          <strong>Camiseta</strong>
+          <span>R$ 80,00</span>
+        </footer>
       </Product>
+      <Product>
+        <Image alt='' src={camiseta1} width={520} height={480}/>
+        <footer>
+          <strong>Camiseta</strong>
+          <span>R$ 80,00</span>
+        </footer>
+      </Product>
+      
     </HomeContainer>
   )
 }
