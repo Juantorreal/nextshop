@@ -40,7 +40,8 @@ export const Product = styled('a', {
         transition: 'all 0.2s ease-in-out',
 
         strong: {  
-            fontSize: '1.125rem'
+            fontSize: '1.125rem',
+            color: '$gray100'
 
         },
 
