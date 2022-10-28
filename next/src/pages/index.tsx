@@ -1,6 +1,6 @@
 import Image from "next/future/image"
 import {styled} from "../styles"
-import { HomeContainer, Product } from "./home"
+import { HomeContainer, Product } from "../styles/pages/home"
 import {useKeenSlider} from "keen-slider/react"
 
 import camiseta1 from '../assets/camisetas/1.png'
