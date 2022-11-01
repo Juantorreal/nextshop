@@ -18,7 +18,8 @@ p: {
    color: '$gray300',
    maxWidth: 560,
    textAlign: 'center',
-   marginTop: '2rem'
+   marginTop: '2rem',
+   lineHeight: '1.4'
 },
 a: {
   display: 'block',
